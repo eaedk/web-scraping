@@ -13,7 +13,7 @@ I will use many technologies to do the web scraping of websites :
 
 # Scraped Websites
 Here is a list of the scraped websites:
-- [Torrent9 - oxTorrent version](https://github.com/eaedk/web-scraping/tree/master/selenium/Torrent9)
+- [OxTorrent](https://github.com/eaedk/web-scraping/tree/master/selenium/OxTorrent)
 - [Jumia](https://github.com/eaedk/web-scraping/tree/master/selenium/Jumia_SN)
 
 # Reach me out
