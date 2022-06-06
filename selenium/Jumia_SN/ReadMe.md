@@ -20,6 +20,14 @@ For the first category `Téléphones & Tablettes`, have a loook bellow.
 A sample of scraped data is bellow.
 ![Téléphones & Tablettes csv](src/phones%20and%20tablets%20csv.png)
 
+# Usage
+## Initialization
+In the parent folder (=> `selenium` ), open `initialization.ipynb` notebook and execute all the cells to initialize selenium.
+
+## Scrape
+Open `Jumia_SN.ipynb` notebook ( or other notebooks that scrape information diffrently) and execute all the cells to scrape all the articles of all categories. The CSV files in the folder `data` will be updated.
+
+
 # Reach me out
 
 Do not hesitate to do ask questions about the techniques and approaches I apply to scrape a website. 
