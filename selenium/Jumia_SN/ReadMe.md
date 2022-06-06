@@ -1,10 +1,12 @@
 # Overview
 
-Here is a repository to share my web scraping of Jumia.sn that I started on June 5th.
+Here is a repository to share my web scraping of [Jumia Senegal](www.jumia.sn) that I started on June 5th, 2022.
 
 # Jumia
 
 Jumia is a Pan-African technology company that is built around a marketplace, logistics service and payment service. The logistics service enables the delivery of packages through a network of local partners while the payment services facilitate the payments of online transactions within Jumia’s ecosystem.
+
+![first page](src/jumia_sn.png)
 
 # Reach me out
 
