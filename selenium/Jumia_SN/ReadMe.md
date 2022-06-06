@@ -8,6 +8,18 @@ Jumia is a Pan-African technology company that is built around a marketplace, lo
 
 ![first page](src/jumia_sn.png)
 
+# Web Scraping
+## Categories
+I started to scrape the articles on the website focusing on main categories that are in the menu. `notebook: Jumia_SN.ipynb`
+![menu](src/menu.png)
+
+For the first category `Téléphones & Tablettes`, have a loook bellow. 
+![Téléphones & Tablettes page](src/phones%20and%20tablets.png)
+
+
+A sample of scraped data is bellow.
+![Téléphones & Tablettes csv](src/phones%20and%20tablets%20csv.png)
+
 # Reach me out
 
 Do not hesitate to do ask questions about the techniques and approaches I apply to scrape a website. 
