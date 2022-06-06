@@ -9,11 +9,11 @@ OxTorrent is a P2P torrent platform.
 ![home](src/homepage.png)
 
 # Web Scraping
-## Get header/main category
+## Get header/main categories
 I started to scrape  by getting the header to identify all the main categories. 
 ![menu](src/menu.png)
 
-## Explore header items/category 
+## Explore header items/categories 
 Once I got categories, I explored to collect torrent infomation that are stored as a table.
 ![first-category-page-top](src/first-category-page-top.png)
 
