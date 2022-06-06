@@ -1,6 +1,6 @@
 # Overview
 
-Here is a repository to share my web scraping activities.
+Here is a repository to share my web scraping activities. I like to spend some hours having fun doing scraping. You may propose other websites you want me to scrape.
 
 # Web scraping
 
